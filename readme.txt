@@ -1,9 +1,4 @@
-Shraddha Jain and Veronika Alex
-
-***********************************************************************************************************************************************************
 Classes:
-
-The following classes are included in Homework 5:
 
 	1 - Main - tester class
 	2 - FileReader - reads in the file, and creates a list of lines 
